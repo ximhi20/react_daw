@@ -1,2 +1,2 @@
-# rust_daw
-Pruebas de Rust
+# react_daw
+Pruebas de React
